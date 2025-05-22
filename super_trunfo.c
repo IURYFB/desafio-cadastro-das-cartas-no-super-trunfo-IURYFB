@@ -22,7 +22,7 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n\n", NumeroDePontosTuristicos1);
 
     // Carta 2 - Paraíba
-    char Estado2 = 'P';
+    char Estado2 = 'B';
     char Codigodacarta2[] = "P02";
     char NomeDaCidade2[] = "Paraíba";
     int Populacao2 = 4039277;
